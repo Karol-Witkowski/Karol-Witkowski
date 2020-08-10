@@ -27,10 +27,8 @@ I am a Carbohydrate chemistry student and engineer 🧪. Focused to learn fronte
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1515293?s=200&v=4" title="Chai" alt="Chai"></code>
 
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/37190687?s=200&v=4" title="ApexCharts" alt="ApexCharts"></code>
-</p>
 
-<p align="center">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" title="NPM" alt="NPM">
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" title="NPM" alt="NPM"></code>
 
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/22247014?s=200&v=4" title="Yarn" alt="Yarn"></code>
 
