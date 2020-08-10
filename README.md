@@ -4,8 +4,8 @@ I am a Carbohydrate chemistry student and engineer 🧪. Focused to learn fronte
 
 
 - 💻 I’m currently working on my projects that are here. I also help with an e-commerce website.
-- 📖 Now I’m learning JavaScript test frameworks and as usually - Vue.js.
-- 🎯 Right now I am planning to learn Node.js within this year
+- 📖 Now I’m focusing on JavaScript test frameworks and as always - Vue.js.
+- 🎯 Right now I am planning to learn Node.js within this year.
 - 🔭 Looking for a job which would help me broaden my skills.
 
 ## Languages and Tools that I use
@@ -29,4 +29,4 @@ I am a Carbohydrate chemistry student and engineer 🧪. Focused to learn fronte
 
 ## Let's talk
 
-📬 Feel free to contact me via e-mail karol.witkowski@gmail.com.
+📬 Feel free to contact me via e-mail karol.witkowski@gmail.com
