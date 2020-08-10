@@ -1,6 +1,5 @@
 ## Hey, I'm Karol
 
-<br/>
 I am a Carbohydrate chemistry student and engineer 🧪. Focused to learn frontend technology and aspire to become fulltime developer. Everyday practice and hard work is the way to go.
 
 - 💾 I’m currently working on my projects that are here and help with one e-commerce website.
@@ -11,7 +10,6 @@ I am a Carbohydrate chemistry student and engineer 🧪. Focused to learn fronte
 
 ## Languages and Tools that I use
 
-<p align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" alt="JavaScript"></code>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="Vue.js" alt="Vue.js"></code>
@@ -41,9 +39,7 @@ I am a Carbohydrate chemistry student and engineer 🧪. Focused to learn fronte
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" title="Webpack" alt="Webpack"></code>
 
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" title="Adobe XD" alt="Adobe XD"></code>
-</p>
-<br/>
 
 ## Let's talk
-<br/>
+
 📬 Feel free to contact me via e-mail karol.witkowski@gmail.com.
