@@ -3,8 +3,9 @@
 I am a Carbohydrate chemistry student and engineer 🧪. Focused to learn frontend technology and aspire to become fulltime developer. Everyday practice and hard work is the way to go.
 
 
-- 💾 I’m currently working on my projects that are here and help with one e-commerce website.
-- 🕮 Now I’m learning JavaScript test frameworks and as usually - Vue.js.
+- 💻 I’m currently working on my projects that are here. I also help with an e-commerce website.
+- 📖 Now I’m learning JavaScript test frameworks and as usually - Vue.js.
+- 🎯 Right now I am planning to learn Node.js within this year
 - 🔭 Looking for a job which would help me broaden my skills.
 
 ## Languages and Tools that I use
