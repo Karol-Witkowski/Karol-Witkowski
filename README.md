@@ -29,4 +29,4 @@ I am a Carbohydrate chemistry student and engineer 🧪. Focused to learn fronte
 
 ## Let's talk
 
-📬 Feel free to contact me via e-mail karol.witkowski@gmail.com
+📬 Feel free to contact me via e-mail karol.witkowski@hotmail.com
