@@ -1,6 +1,6 @@
 ## Hey, I'm Karol
 
-I am a Carbohydrate chemistry student and engineer 🧪. Focused to learn frontend technology and aspire to become fulltime developer. Everyday practice and hard work is the way to go.
+I am a Carbohydrate chemistry engineer 🧪. Focused to learn frontend technology and aspire to become fulltime developer. Everyday practice and hard work is the way to go. Any advice is welcome.
 
 
 - 💻 I’m currently working on my projects that are here. I also help with an e-commerce website.
@@ -8,7 +8,7 @@ I am a Carbohydrate chemistry student and engineer 🧪. Focused to learn fronte
 - 🎯 Right now I am planning to learn Node.js within this year.
 - 🔭 Looking for a job which would help me broaden my skills.
 
-## Languages and Tools that I use
+## Languages and tools that I use
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" alt="JavaScript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="Vue.js" alt="Vue.js"></code>
