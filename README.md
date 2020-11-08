@@ -28,6 +28,7 @@ I am a Carbohydrate chemistry engineer 🧪. Focused to learn frontend technolog
 <code><img height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code"></code>
 <code><img height="40" src="https://www.gitkraken.com/img/keif-gallery/gallery-keif.jpg" title="GitKraken" alt="GitKraken"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" title="Adobe XD" alt="Adobe XD"></code>
+<code><img height="40" src="https://avatars0.githubusercontent.com/u/4327788?s=200&v=4" title="Google Analytics" alt="Google Analytics"></code>
 
 ## Let's talk
 
