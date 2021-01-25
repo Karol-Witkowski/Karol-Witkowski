@@ -29,6 +29,7 @@ I am a Carbohydrate chemistry engineer 🧪. Focused to master Vue.js and Node.j
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" title="Babel" alt="Babel badge"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" title="npm" alt="npm badge"></code>
 <code><img height="40" src="https://avatars1.githubusercontent.com/u/22247014?s=200&v=4" title="Yarn" alt="Yarn badge"></code>
+<code><img height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" title="Visual studio code" alt="Visual studio code"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" title="Adobe XD" alt="Adobe XD badge"></code>
 <code><img height="40" src="https://avatars0.githubusercontent.com/u/4327788?s=200&v=4" title="Google Analytics" alt="Google Analytics badge"></code>
 
