@@ -14,8 +14,9 @@ I am a Carbohydrate chemistry engineer 🧪. Focused to master Vue.js and Node.j
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3" alt="CSS3 badge"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" alt="JavaScript badge"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js" alt="Node.js badge"></code>
-<code><img height="40" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="Express.js" alt="Express.js badge"></code>
-<code><img height="40" src="https://media-exp1.licdn.com/dms/image/C560BAQGC029P7UbAMQ/company-logo_200_200/0/1562088387077?e=2159024400&v=beta&t=lEY4Obku1xJ3BB_BpN3Np9ILy8_zaB1_yjsfH9A57qs" title="MongoDB " alt="MongoDB badge"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" title="Express.js" alt="Express.js badge"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" title="Socket.IO" alt="Socket.IO badge"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" title="MongoDB " alt="MongoDB badge"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="Vue.js" alt="Vue.js badge"></code>
 <code><img height="40" src="https://camo.githubusercontent.com/be384df72ff1748336f5927f7116e79a37cbe1639a5b7db162be2d7afe350f87/68747470733a2f2f63646e2e767565746966796a732e636f6d2f696d616765732f6c6f676f732f6c6f676f2e737667" title="Vuetify" alt="Vuetify badge"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" title="Sass" alt="Sass badge"></code>
