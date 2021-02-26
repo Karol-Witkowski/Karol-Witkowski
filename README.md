@@ -1,11 +1,11 @@
 ## Hey, I'm Karol
 
-I am a Carbohydrate chemistry engineer 🧪. Focused to master Vue.js and Node.js and aspire to become JavaScript developer. Everyday practice and hard work is the way to go. Any advice is welcome.
+I am a Carbohydrate chemistry engineer 🧪. Focused on both Vue and Node and aspire to become JavaScript developer. Everyday practice and hard work is the way to go.
 
 
 - 💻 I’m currently working on my projects that are here. I also help with an e-commerce website
 - 📖 Now I’m focusing on Node.js
-- 🎯 I'm planning to learn MEVN Stack
+- 🎯 I'm aiming to master MEVN Stack
 - 🔭 Looking for a internship. I want to invest in my growth by working with professionals
 
 ## Languages and tools that I use
