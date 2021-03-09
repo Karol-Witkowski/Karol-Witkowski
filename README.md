@@ -2,7 +2,6 @@
 
 I am a Carbohydrate chemistry engineer 🧪. Focused on both Vue and Node and aspire to become JavaScript developer. Everyday practice and hard work is the way to go.
 
-
 - 💻 I’m currently working on my projects that are here. I also help with an e-commerce website
 - 📖 Now I’m focusing on Node.js
 - 🎯 I'm aiming to master MEVN Stack
@@ -17,6 +16,7 @@ I am a Carbohydrate chemistry engineer 🧪. Focused on both Vue and Node and as
 <code><img height="40" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" title="Express.js" alt="Express.js badge"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" title="Socket.IO" alt="Socket.IO badge"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" title="MongoDB " alt="MongoDB badge"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" title="Mongoose" alt="Mongoose badge"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="Vue.js" alt="Vue.js badge"></code>
 <code><img height="40" src="https://camo.githubusercontent.com/be384df72ff1748336f5927f7116e79a37cbe1639a5b7db162be2d7afe350f87/68747470733a2f2f63646e2e767565746966796a732e636f6d2f696d616765732f6c6f676f732f6c6f676f2e737667" title="Vuetify" alt="Vuetify badge"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" title="Sass" alt="Sass badge"></code>
