@@ -2,6 +2,7 @@
 
 I am a Carbohydrate chemistry engineer 🧪. Focused on both Vue and Node and aspire to become JavaScript developer. Everyday practice and hard work is the way to go.
 
+
 - 💻 I’m currently working on my projects that are here. I also help with an e-commerce website
 - 📖 Now I’m focusing on Node.js
 - 🎯 I'm aiming to master MEVN Stack
