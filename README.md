@@ -1,10 +1,9 @@
 ## Hey, I'm Karol
 
-I am a Carbohydrate chemistry engineer 🧪. Focused on both Vue and Node and aspire to become JavaScript developer. Everyday practice and hard work is the way to go.
+I'm a Carbohydrate chemistry engineer 🧪. Focused on both Vue and Node and aspire to become JavaScript developer.
 
-
-- 💻 I’m currently working on my projects that are here. I also help with an e-commerce website
-- 📖 Now I’m focusing on Node.js
+- 💻 I’m currently working on my own projects
+- 📖 Focused on Node.js
 - 🎯 I'm aiming to master MEVN Stack
 - 🔭 Looking for an internship. I want to invest in my growth by working with professionals
 
@@ -28,4 +27,4 @@ I am a Carbohydrate chemistry engineer 🧪. Focused on both Vue and Node and as
 
 ## Let's talk
 
-📬 Feel free to contact me via e-mail karol.witkowski@hotmail.com
+📬 Feel free to contact me: karol.witkowski@hotmail.com
