@@ -5,7 +5,6 @@ I'm a Carbohydrate chemistry engineer 🧪. Focused on both Vue.js and Node.js a
 - 💻 I’m currently working on my own projects
 - 📖 Focused on Vue.js and Node.js
 - 🎯 I'm aiming to master MEVN Stack
-- 🔭 Looking for an internship. I want to invest in my growth by working with professionals
 
 ## Languages and tools
 
